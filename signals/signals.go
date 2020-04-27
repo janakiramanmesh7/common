@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/weaveworks/common/logging"
+	"github.com/janakiramanmesh7/common/logging"
 )
 
 // SignalReceiver represents a subsystem/server/... that can be stopped or

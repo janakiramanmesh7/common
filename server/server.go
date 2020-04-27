@@ -23,12 +23,12 @@ import (
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/keepalive"
 
-	"github.com/weaveworks/common/httpgrpc"
-	httpgrpc_server "github.com/weaveworks/common/httpgrpc/server"
-	"github.com/weaveworks/common/instrument"
-	"github.com/weaveworks/common/logging"
-	"github.com/weaveworks/common/middleware"
-	"github.com/weaveworks/common/signals"
+	"github.com/janakiramanmesh7/common/httpgrpc"
+	httpgrpc_server "github.com/janakiramanmesh7/common/httpgrpc/server"
+	"github.com/janakiramanmesh7/common/instrument"
+	"github.com/janakiramanmesh7/common/logging"
+	"github.com/janakiramanmesh7/common/middleware"
+	"github.com/janakiramanmesh7/common/signals"
 )
 
 // Config for a Server

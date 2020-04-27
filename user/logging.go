@@ -3,7 +3,7 @@ package user
 import (
 	"golang.org/x/net/context"
 
-	"github.com/weaveworks/common/logging"
+	"github.com/janakiramanmesh7/common/logging"
 )
 
 // LogWith returns user and org information from the context as log fields.

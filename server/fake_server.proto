@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package server;
 
-option go_package = "github.com/weaveworks/common/server";
+option go_package = "github.com/janakiramanmesh7/common/server";
 
 import "google/protobuf/empty.proto";
 
